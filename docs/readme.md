@@ -9,7 +9,7 @@ Docker and containerisation is now pervasively used in our world. So much so tha
 
 ### Getting started
 
-Lets checkout [Getting started | White Belt](./WhiteBelt)
+Lets checkout [Getting started - White Belt](./WhiteBelt)
 
 -------------
 [Home](./)  
