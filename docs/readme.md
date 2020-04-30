@@ -1,11 +1,11 @@
 # Docker crash course
 
-Docker and containerisation is now pervasively used in our world. So much so that it sneaks into our source control repositories often without the wider team really understanding what its does. It just works. That's good, but a shared understanding is better. This post is aimed at people that use DOcker but would struggle to explain how it works line by line. Its also aimed to be a crash course, nice a short for people short on time.
+Docker and containerisation is now pervasively used in our world. So much so that it sneaks into our source control repositories often without the wider team really understanding what its does. It just works. That's good, but a shared understanding is better. This post is aimed at people that use Docker but would struggle to explain how it works line by line. Its also aimed to be a crash course, nice a short for people short on time.
 
 ## Assumptions
 
 1. A basic understanding of the terminal, shell scripts and git.  
-1. Docker is installed and running ie on the command line - ie `docker --version` returns a version and not an error.
+1. Docker is installed and running ie on the command line - i.e. `docker --version` returns a version and not an error.
 
 ### Getting started
 
