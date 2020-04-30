@@ -13,7 +13,7 @@ Here at *SenpaiSessions* we use a belt system to clearly show what our learning 
 |Proactive in the community        |BROWN BELT   |
 |Field leader                      |BLACK BELT   |
 
-## Learning Docker
+## Learning Docker - Goals
 
 ### WHITE BELT
 
