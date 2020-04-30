@@ -18,7 +18,7 @@ Lets checkout [Getting started | White Belt](./WhiteBelt)
 [White Belt](./WhiteBelt)  
 [Yellow Belt](./YellowBelt)  
 [Orange Belt](./OrangeBelt)  
-[Green Belt](./GreenwBelt)  
+[Green Belt](./GreenBelt)  
 
 -------------
 We know docker containers are like VMs, in that Docker allows us run code in a consistent environment with a known set up allowing us to have predictable results wherever it is run. The plus side is it is much faster and more light weight than a VM.  
