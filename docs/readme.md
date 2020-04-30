@@ -9,7 +9,12 @@ Docker and containerisation is now pervasively used in our world. So much so tha
 
 ### Getting started
 
-We know docker containers are like VMs, in that Docker allows us run code in a consistent environment with a known set up allowing us to have predicated results wherever it is run. The plus side is it is much faster and more light weight than a VM.  
+Lets checkout [Getting started | White Belt](./WhiteBelt)
+
+
+
+-------------
+We know docker containers are like VMs, in that Docker allows us run code in a consistent environment with a known set up allowing us to have predictable results wherever it is run. The plus side is it is much faster and more light weight than a VM.  
 To start, lets do the "step one" of any tutorial and kick off "hello world" with Docker.  
 In a terminal enter the following:
 
